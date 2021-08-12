@@ -1,0 +1,6 @@
+--2021-08-12 11:43:07--  https://datasetsnpeff.blob.core.windows.net/dataset/versions/snpEff_latest_core.zip?sv=2019-10-10
+Resolving datasetsnpeff.blob.core.windows.net (datasetsnpeff.blob.core.windows.net)... 52.239.236.228
+Connecting to datasetsnpeff.blob.core.windows.net (datasetsnpeff.blob.core.windows.net)|52.239.236.228|:443... connected.
+HTTP request sent, awaiting response... 404 The specified resource does not exist.
+2021-08-12 11:43:07 ERROR 404: The specified resource does not exist..
+
