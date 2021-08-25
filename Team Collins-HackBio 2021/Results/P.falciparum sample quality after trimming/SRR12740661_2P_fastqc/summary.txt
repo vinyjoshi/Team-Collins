@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR12740661_2P.fastq
+PASS	Per base sequence quality	SRR12740661_2P.fastq
+PASS	Per sequence quality scores	SRR12740661_2P.fastq
+FAIL	Per base sequence content	SRR12740661_2P.fastq
+WARN	Per sequence GC content	SRR12740661_2P.fastq
+PASS	Per base N content	SRR12740661_2P.fastq
+WARN	Sequence Length Distribution	SRR12740661_2P.fastq
+PASS	Sequence Duplication Levels	SRR12740661_2P.fastq
+PASS	Overrepresented sequences	SRR12740661_2P.fastq
+PASS	Adapter Content	SRR12740661_2P.fastq
